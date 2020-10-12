@@ -1,0 +1,346 @@
+non-speech;noise;00:00:00.000;00:00:02.230
+woman;French;00:00:02.230;00:00:07.880
+man;English;00:00:07.880;00:00:10.680
+non-speech;noise;00:00:10.680;00:00:14.040
+non-speech;laughter;00:00:14.040;00:00:15.440
+man;English;00:00:15.440;00:00:17.760
+non-speech;inaudible;00:00:17.760;00:00:20.000
+non-speech;noise;00:00:20.000;00:00:22.880
+woman;English;00:00:22.880;00:00:25.440
+man;English;00:00:25.440;00:00:28.021
+non-speech;noise;00:00:28.000;00:00:32.080
+woman;English;00:00:32.080;00:00:35.885
+non-speech;noise;00:00:35.840;00:00:38.000
+man;English;00:00:38.000;00:00:40.980
+woman;English;00:00:40.980;00:00:43.870
+non-speech;laughter;00:00:43.909;00:00:45.007
+non-speech;noise;00:00:45.007;00:00:47.417
+man;English;00:00:47.417;00:00:50.392
+woman;English;00:00:50.392;00:00:54.084
+non-speech;noise;00:00:54.080;00:00:57.000
+non-speech;inaudible;00:00:57.000;00:00:58.760
+non-speech;noise;00:00:58.760;00:01:01.620
+woman;English;00:01:01.620;00:01:03.690
+child;child;00:01:03.690;00:01:05.715
+man;Spanish, child-directed;00:01:05.738;00:01:08.458
+child;child;00:01:06.758;00:01:10.958
+man;Spanish, child-directed;00:01:10.958;00:01:13.998
+non-speech;noise;00:01:13.890;00:01:17.090
+woman;French;00:01:17.090;00:01:19.870
+non-speech;noise;00:01:19.870;00:01:21.860
+man;French;00:01:21.885;00:01:24.845
+man;English;00:01:24.845;00:01:28.625
+woman;English;00:01:28.625;00:01:34.675
+man;English;00:01:34.675;00:01:37.350
+woman;English;00:01:37.350;00:01:41.032
+man;English;00:01:41.032;00:01:42.491
+woman;English;00:01:42.491;00:01:44.661
+man;English;00:01:44.661;00:01:46.236
+woman;English;00:01:46.200;00:01:49.600
+man;English;00:01:49.600;00:01:51.080
+non-speech;noise;00:01:51.040;00:01:55.640
+woman;English;00:01:55.640;00:01:59.120
+man;English;00:01:59.120;00:02:01.400
+non-speech;noise;00:02:01.360;00:02:03.960
+man;English;00:02:03.960;00:02:10.400
+woman;English;00:02:10.400;00:02:13.000
+non-speech;noise;00:02:13.000;00:02:15.480
+man;English;00:02:15.480;00:02:18.620
+non-speech;hum;00:02:18.620;00:02:20.310
+woman;English;00:02:20.310;00:02:23.165
+non-speech;hum;00:02:23.165;00:02:25.077
+woman;English;00:02:25.077;00:02:27.741
+child;child;00:02:27.741;00:02:32.709
+man;English, child-directed;00:02:31.285;00:02:35.525
+woman;French, child-directed;00:02:35.525;00:02:40.105
+non-speech;noise;00:02:40.105;00:02:44.795
+woman;French;00:02:44.795;00:02:50.870
+man;French;00:02:50.870;00:02:54.412
+non-speech;noise;00:02:54.440;00:02:59.640
+man;Spanish;00:02:59.640;00:03:02.940
+non-speech;laughter;00:03:02.940;00:03:07.190
+man;Spanish;00:03:07.190;00:03:10.245
+woman;English;00:03:10.160;00:03:20.440
+man;English;00:03:20.440;00:03:22.280
+woman;English;00:03:22.280;00:03:24.340
+man;English;00:03:24.340;00:03:31.170
+woman;English;00:03:31.170;00:03:35.375
+man;English;00:03:35.375;00:03:40.092
+non-speech;noise;00:03:40.040;00:04:09.800
+non-speech;inaudible;00:04:09.800;00:04:12.640
+non-speech;noise;00:04:12.640;00:04:16.160
+man;English;00:04:16.120;00:04:22.960
+non-speech;noise;00:04:22.920;00:04:37.560
+child;child;00:04:37.560;00:04:40.020
+man;Spanish, child-dirrected;00:04:40.020;00:04:44.050
+child;child;00:04:44.050;00:04:48.055
+woman;French, child-directed;00:04:48.055;00:04:52.352
+man;French;00:04:52.352;00:04:55.183
+woman;French;00:04:55.183;00:05:00.187
+man;French;00:05:00.187;00:05:01.865
+non-speech;noise  / music;00:05:01.760;00:05:35.400
+non-speech;sigh;00:05:35.400;00:05:37.280
+non-speech;noise / music;00:05:37.280;00:05:41.200
+man;English;00:05:41.200;00:05:42.780
+woman;English;00:05:42.780;00:05:45.730
+man;English;00:05:45.730;00:05:49.955
+woman;English;00:05:49.955;00:05:54.062
+child;child;00:05:54.062;00:05:57.028
+man;English, child-directed;00:05:57.028;00:05:59.485
+woman;French, child-directed;00:05:59.468;00:06:02.428
+child;child;00:06:01.582;00:06:04.462
+man;Spanish, child-directed;00:06:04.462;00:06:08.002
+child;child;00:06:08.002;00:06:11.052
+woman;French, child-directed;00:06:11.052;00:06:14.267
+child;child;00:06:14.267;00:06:19.039
+man;Spanish, child-directed;00:06:17.400;00:06:23.480
+non-speech;noise;00:06:23.440;00:06:33.320
+man;English;00:06:33.320;00:06:39.800
+woman;English;00:06:36.220;00:06:37.420
+woman;English;00:06:39.760;00:06:42.440
+man;English;00:06:42.440;00:06:44.520
+woman;English;00:06:44.520;00:06:47.460
+man;English;00:06:47.460;00:06:50.770
+woman;English;00:06:50.770;00:06:53.335
+woman;French;00:06:53.335;00:06:57.352
+non-speech;laughter;00:06:57.352;00:06:59.483
+man;French;00:06:59.483;00:07:02.717
+non-speech;noise;00:07:02.643;00:07:07.283
+man;Spanish, child-directed;00:07:07.283;00:07:10.543
+child;child;00:07:10.543;00:07:15.093
+woman;French, child-directed;00:07:15.093;00:07:16.758
+man;Spanish, child-directed;00:07:16.758;00:07:18.505
+child;child;00:07:18.505;00:07:19.971
+non-speech;noise;00:07:19.983;00:07:24.623
+man;Spanish, child-directed;00:07:24.623;00:07:27.883
+child;child;00:07:27.883;00:07:30.593
+man;Spanish, child-directed;00:07:30.593;00:07:33.818
+child;child;00:07:33.818;00:07:38.225
+man;Spanish, child-directed;00:07:38.225;00:07:42.041
+woman;French, child-directed;00:07:42.108;00:07:46.428
+woman;French;00:07:46.508;00:07:51.148
+non-speech;noise;00:07:51.098;00:08:01.978
+woman;French;00:08:01.978;00:08:06.118
+man;English;00:08:06.118;00:08:08.708
+woman;English;00:08:08.708;00:08:12.953
+non-speech;noise;00:08:12.840;00:08:27.240
+man;English;00:08:27.240;00:08:30.160
+woman;English;00:08:30.160;00:08:34.360
+man;English;00:08:34.360;00:08:36.560
+woman;English;00:08:36.560;00:08:37.760
+man;English;00:08:37.760;00:08:39.460
+woman;English;00:08:39.360;00:08:46.120
+man;English;00:08:46.120;00:08:48.360
+woman;English;00:08:48.360;00:08:54.860
+child;child;00:08:53.870;00:08:57.110
+woman;French, child-directed;00:08:57.110;00:09:00.550
+woman;English;00:09:00.550;00:09:03.490
+man;English;00:09:03.490;00:09:05.640
+woman;English;00:09:05.640;00:09:08.105
+man;English;00:09:08.105;00:09:10.292
+woman;English;00:09:10.292;00:09:12.178
+non-speech;noise;00:09:12.240;00:09:20.440
+man;English;00:09:20.440;00:09:24.360
+woman;English;00:09:24.360;00:09:27.860
+man;English;00:09:27.860;00:09:31.530
+woman;English;00:09:31.530;00:09:34.115
+non-speech;noise;00:09:34.060;00:09:35.980
+woman;English;00:09:35.980;00:09:39.800
+non-speech;noise;00:09:39.780;00:09:42.820
+woman;English;00:09:42.820;00:09:45.160
+woman;French;00:09:45.160;00:09:48.650
+non-speech;noise;00:09:48.610;00:09:55.610
+man;French;00:09:55.670;00:09:58.550
+woman;French;00:09:58.550;00:10:03.690
+man;English;00:10:03.690;00:10:09.540
+woman;English;00:10:09.570;00:10:13.370
+man;Spanish, child-directed;00:10:13.370;00:10:17.010
+child;child;00:10:17.010;00:10:19.850
+woman;English;00:10:19.850;00:10:23.050
+man;Spanish, child-directed;00:10:23.010;00:10:25.850
+woman;English;00:10:25.850;00:10:28.330
+child;child;00:10:28.330;00:10:30.350
+man;Spanish, child-directed;00:10:30.350;00:10:33.440
+woman;French, child-directed;00:10:33.440;00:10:36.275
+non-speech;noise;00:10:36.275;00:10:38.917
+woman;French, child-directed;00:10:38.917;00:10:41.637
+man;Spanish, child-directed;00:10:41.670;00:10:46.910
+child;child;00:10:46.910;00:10:48.830
+woman;French, child-directed;00:10:48.830;00:10:53.370
+child;child;00:10:53.370;00:10:56.560
+woman;French;00:10:56.560;00:11:00.185
+non-speech;noise;00:11:00.175;00:11:04.455
+woman;French;00:11:04.455;00:11:08.495
+non-speech;laughter;00:11:08.400;00:11:10.840
+woman;French, child-directed;00:11:10.840;00:11:13.960
+non-speech;laughter;00:11:13.960;00:11:15.460
+non-speech;shouting;00:11:15.460;00:11:17.170
+man;English, child-directed;00:11:17.170;00:11:18.855
+man;Spanish, child-directed;00:11:18.855;00:11:21.832
+child;child;00:11:21.832;00:11:24.643
+woman;French;00:11:24.600;00:11:27.560
+man;English;00:11:27.560;00:11:30.420
+non-speech;laughter;00:11:30.360;00:11:34.840
+non-speech;noise;00:11:34.920;00:11:38.360
+woman;French;00:11:38.360;00:11:40.820
+non-speech;laughter;00:11:40.820;00:11:43.250
+non-speech;noise;00:11:43.290;00:11:54.970
+woman;English;00:11:54.970;00:11:56.670
+man;English;00:11:56.670;00:11:59.400
+woman;English;00:11:59.370;00:12:10.210
+man;English;00:12:10.210;00:12:13.050
+woman;English;00:12:13.050;00:12:19.330
+man;English;00:12:19.330;00:12:28.340
+woman;French;00:12:28.150;00:12:36.250
+non-speech;noise;00:12:36.500;00:12:43.500
+man;English;00:12:43.500;00:12:54.550
+non-speech;noise;00:12:54.500;00:13:00.900
+man;English;00:13:00.900;00:13:10.250
+woman;English;00:13:10.250;00:13:15.825
+man;English;00:13:15.825;00:13:21.187
+woman;English;00:13:21.187;00:13:29.856
+man;English;00:13:29.856;00:13:32.371
+non-speech;exclamation;00:13:32.200;00:13:36.900
+woman;English;00:13:36.900;00:13:45.900
+man;English;00:13:45.900;00:13:52.350
+woman;English;00:13:52.350;00:14:02.575
+non-speech;noise;00:14:02.400;00:14:14.000
+woman;French;00:14:14.000;00:14:24.150
+man;English;00:14:24.150;00:14:30.825
+non-speech;answering machine;00:14:30.720;00:14:48.080
+man;English;00:14:48.080;00:14:49.423
+woman;French;00:14:49.400;00:14:53.400
+non-speech;answering machine;00:14:53.480;00:15:34.920
+woman;French;00:15:34.960;00:15:37.080
+non-speech;phone operator;00:15:37.080;00:15:43.400
+non-speech;noise;00:15:43.400;00:15:54.620
+non-speech;hum;00:15:54.620;00:15:55.450
+woman;French, child-directed;00:15:55.460;00:15:57.580
+non-speech;noise;00:15:57.580;00:16:03.900
+woman;French;00:16:03.840;00:16:07.040
+non-speech;noise / music;00:16:07.040;00:16:32.220
+child;child;00:16:32.220;00:16:35.690
+non-speech;noise;00:16:35.631;00:16:39.071
+woman;French, child-directed;00:16:39.071;00:16:40.811
+woman;English, child-directed;00:16:40.820;00:16:44.420
+child;child;00:16:44.420;00:16:45.640
+woman;English, child-directed;00:16:45.640;00:16:48.690
+man;Spanish, child-directed;00:16:48.690;00:16:51.825
+child;child;00:16:51.825;00:16:53.557
+non-speech;noise;00:16:53.520;00:16:56.840
+non-speech;inaudible;00:16:56.840;00:16:59.520
+non-speech;noise;00:16:59.520;00:17:02.320
+woman;English;00:17:02.320;00:17:07.660
+man;English;00:17:07.610;00:17:11.450
+woman;English;00:17:11.450;00:17:14.690
+non-speech;laughter;00:17:14.680;00:17:17.960
+woman;English;00:17:17.960;00:17:19.780
+non-speech;noise;00:17:19.760;00:17:32.400
+man;English;00:17:32.400;00:17:36.060
+non-speech;noise;00:17:36.000;00:17:40.280
+woman;English;00:17:40.280;00:17:42.320
+man;English;00:17:42.320;00:17:45.640
+woman;English;00:17:45.640;00:17:46.560
+man;English;00:17:46.560;00:17:47.920
+woman;English;00:17:47.920;00:17:51.860
+man;English;00:17:51.840;00:17:53.480
+woman;English;00:17:53.480;00:17:56.640
+man;English;00:17:56.640;00:17:58.440
+woman;English;00:17:58.440;00:18:00.840
+non-speech;noise;00:18:00.760;00:18:04.040
+woman;French, child-directed;00:18:04.040;00:18:06.220
+non-speech;noise;00:18:06.220;00:18:09.870
+woman;French, child-directed;00:18:09.870;00:18:14.745
+child;child;00:18:14.680;00:18:16.520
+woman;English, child-directed;00:18:16.520;00:18:18.460
+non-speech;noise;00:18:18.430;00:19:11.785
+woman;French;00:19:11.760;00:19:14.680
+man;French;00:19:14.680;00:19:16.880
+woman;French;00:19:16.880;00:19:19.600
+non-speech;music;00:19:19.600;00:19:49.880
+woman;French, child-directed;00:19:49.880;00:19:52.760
+non-speech;noise;00:19:52.800;00:20:19.300
+man;English;00:20:19.300;00:20:23.590
+non-speech;noise;00:20:23.520;00:20:25.960
+woman;English;00:20:26.000;00:20:28.720
+non-speech;laughter;00:20:28.680;00:20:32.080
+man;English;00:20:32.080;00:20:35.040
+woman;English;00:20:35.040;00:20:36.300
+man;English;00:20:36.300;00:20:38.210
+woman;English;00:20:38.120;00:20:41.880
+man;English;00:20:41.920;00:20:53.080
+woman;English;00:20:53.080;00:20:55.840
+non-speech;laughter;00:20:55.760;00:20:59.120
+man;English;00:20:59.120;00:21:01.940
+woman;English;00:21:01.940;00:21:06.070
+man;English;00:21:06.070;00:21:12.105
+non-speech;laughter;00:21:12.092;00:21:15.572
+woman;English;00:21:15.572;00:21:20.412
+non-speech;laughter;00:21:20.360;00:21:23.480
+woman;English;00:21:23.480;00:21:28.180
+man;English;00:21:28.180;00:21:31.170
+woman;English;00:21:31.170;00:21:33.215
+man;English;00:21:33.215;00:21:36.095
+woman;English;00:21:36.080;00:21:43.560
+man;English;00:21:43.560;00:21:45.600
+woman;English;00:21:45.600;00:21:56.520
+man;English;00:21:56.520;00:22:02.720
+non-speech;noise;00:22:02.640;00:22:13.080
+non-speech;music;00:22:13.080;00:22:21.440
+man;English;00:22:21.440;00:22:29.200
+woman;French;00:22:29.200;00:22:31.420
+man;English;00:22:31.420;00:22:35.930
+woman;English;00:22:35.930;00:22:39.055
+man;English;00:22:39.055;00:22:41.272
+woman;English;00:22:41.272;00:22:44.543
+man;English;00:22:44.543;00:22:46.527
+non-speech;noise;00:22:46.465;00:22:50.105
+man;English;00:22:50.105;00:22:51.945
+non-speech;laughter;00:22:51.850;00:22:54.130
+woman;English;00:22:54.130;00:23:01.490
+non-speech;inaudible;00:23:01.495;00:23:06.775
+man;English;00:23:06.775;00:23:12.035
+non-speech;noise;00:23:11.920;00:23:14.720
+man;English;00:23:14.720;00:23:20.220
+woman;English;00:23:20.170;00:23:27.610
+man;English;00:23:27.610;00:23:34.750
+woman;English;00:23:34.750;00:23:43.230
+man;English;00:23:43.230;00:23:45.770
+woman;English;00:23:45.770;00:23:49.610
+non-speech;music / noise;00:23:49.520;00:23:53.960
+woman;French, child-directed;00:23:53.960;00:23:57.520
+man;Spanish, child-directed;00:23:57.520;00:24:00.280
+child;child;00:24:00.280;00:24:03.240
+non-speech;noise;00:24:03.240;00:24:05.860
+woman;French, child-directed;00:24:05.840;00:24:08.640
+man;Spanish, child-directed;00:24:08.640;00:24:10.660
+woman;French, child-directed;00:24:10.660;00:24:12.670
+man;Spanish, child-directed;00:24:12.670;00:24:15.245
+non-speech;noise;00:24:15.200;00:24:26.400
+woman;French;00:24:26.440;00:24:29.000
+woman;English;00:24:29.000;00:24:30.420
+woman;French;00:24:30.420;00:24:31.810
+non-speech;laughter;00:24:31.810;00:24:33.055
+man;English;00:24:33.055;00:24:36.252
+man;Spanish;00:24:36.252;00:24:39.092
+woman;English;00:24:39.092;00:24:41.512
+man;English;00:24:41.512;00:24:43.762
+woman;English;00:24:43.762;00:24:46.377
+woman;French;00:24:46.377;00:24:48.409
+woman;English;00:24:48.409;00:24:50.573
+man;English;00:24:50.573;00:24:52.911
+non-speech;inaudible;00:24:52.911;00:24:54.882
+woman;French;00:24:54.882;00:25:01.316
+non-speech;noise;00:25:01.200;00:25:05.520
+woman;French, child-directed;00:25:05.520;00:25:08.900
+child;child;00:25:08.900;00:25:11.030
+woman;French, child-directed;00:25:11.030;00:25:14.225
+child;child;00:25:14.225;00:25:15.687
+non-speech;music;00:25:15.625;00:25:19.705
+woman;French;00:25:19.705;00:25:22.425
+non-speech;music;00:25:22.425;00:25:30.945
+woman;French, child-directed;00:25:30.945;00:25:32.465
+child;child;00:25:32.440;00:25:35.000
+man;Spanish, child-directed;00:25:35.000;00:25:37.180
+woman;French, child-directed;00:25:37.180;00:25:38.510
+man;Spanish, child-directed;00:25:38.480;00:25:44.176
