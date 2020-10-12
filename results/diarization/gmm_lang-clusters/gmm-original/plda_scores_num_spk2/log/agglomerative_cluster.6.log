@@ -1,0 +1,6 @@
+# agglomerative-cluster --threshold=0.5 --read-costs=false --reco2num-spk-rspecifier=ark,t:data/test_subset_2_segmented/reco2num_spk --max-spk-fraction=1.0 --first-pass-max-utterances=32767 "scp:utils/filter_scp.pl exp/ivectors_test_2/plda_scores_num_spk/tmp/split9/6/spk2utt exp/ivectors_test_2/plda_scores/scores.scp |" ark,t:exp/ivectors_test_2/plda_scores_num_spk/tmp/split9/6/spk2utt ark,t:exp/ivectors_test_2/plda_scores_num_spk/labels.6 
+# Started at Sat Aug  8 00:10:49 BST 2020
+#
+agglomerative-cluster --threshold=0.5 --read-costs=false --reco2num-spk-rspecifier=ark,t:data/test_subset_2_segmented/reco2num_spk --max-spk-fraction=1.0 --first-pass-max-utterances=32767 'scp:utils/filter_scp.pl exp/ivectors_test_2/plda_scores_num_spk/tmp/split9/6/spk2utt exp/ivectors_test_2/plda_scores/scores.scp |' ark,t:exp/ivectors_test_2/plda_scores_num_spk/tmp/split9/6/spk2utt ark,t:exp/ivectors_test_2/plda_scores_num_spk/labels.6 
+# Accounting: time=5 threads=1
+# Ended (code 0) at Sat Aug  8 00:10:54 BST 2020, elapsed time 5 seconds
