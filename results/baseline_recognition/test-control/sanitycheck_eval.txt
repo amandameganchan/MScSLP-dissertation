@@ -1,0 +1,7 @@
+STATUS: Parsing command line arguments
+STATUS: Computing errors
+STATUS: Computing language-weighted det points
+STATUS: Computing trial-weighted det points
+STATUS: Done
+   ER (%):   1.12
+C_avg (%):   1.45

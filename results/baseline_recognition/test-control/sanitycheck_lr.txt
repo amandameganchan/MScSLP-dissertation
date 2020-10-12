@@ -1,0 +1,6 @@
+%WER 0.18 [ 36 / 20000, 0 ins, 0 del, 36 sub ]
+%SER 0.18 [ 36 / 20000 ]
+Scored 20000 sentences, 0 not present in hyp.
+%WER 1.12 [ 42 / 3756, 0 ins, 0 del, 42 sub ]
+%SER 1.12 [ 42 / 3756 ]
+Scored 3756 sentences, 0 not present in hyp.
