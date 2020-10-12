@@ -1,0 +1,3 @@
+compute-eer dnn-multi-results/scores 
+LOG (compute-eer[5.5.739~1-d59f03]:main():compute-eer.cc:136) Equal error rate is 33.36%, at threshold 0.15766
+33.36
