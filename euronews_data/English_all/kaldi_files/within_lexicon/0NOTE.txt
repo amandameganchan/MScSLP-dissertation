@@ -1,0 +1,23 @@
+usable_segs:
+average segment length: 3 s
+total time: 40:50
+
+[giger]s1983587: bash ../../../avg_seg_dur.sh usable_segs2
+average segment length: 3 s
+total time: 39:56
+[giger]s1983587: bash ../../../get_utts_of_dur_plus.sh 5000 usable_segs2 usable_segs2-5+
+average segment length: 8 s
+total time: 23:22
+[giger]s1983587: bash ../../../get_utts_of_dur_plus.sh 9000 usable_segs2-5+ usable_segs2-9+
+average segment length: 12 s
+total time: 10:7
+[giger]s1983587: bash ../../../get_utts_of_dur_plus.sh 10000 usable_segs2-5+ usable_segs2-10+
+average segment length: 13 s
+total time: 7:54
+[giger]s1983587: bash ../../../get_utts_of_dur_plus.sh 13000 usable_segs2-10+ usable_segs2-13+
+average segment length: 16 s
+total time: 4:1
+[giger]s1983587: bash ../../../get_utts_of_dur_plus.sh 12000 usable_segs2-10+ usable_segs2-12+
+average segment length: 15 s
+total time: 5:2
+

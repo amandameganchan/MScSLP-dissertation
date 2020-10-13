@@ -1,0 +1,2 @@
+average segment length: 5 s
+total time: 51:0

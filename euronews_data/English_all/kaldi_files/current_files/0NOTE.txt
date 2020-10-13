@@ -1,0 +1,4 @@
+files created on 2nd attempt that makes segments by concatenating adjacent words within half a second 
+50hr folder includes 50 hours worth of data for use in training monolingual DNN-UBM
+5sec+ folder includes segments that are 5 seconds or longer only
+5sec- folder includes segments that are 5 seconds or shorter only

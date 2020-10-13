@@ -1,0 +1,4 @@
+notes:
+- folder originally copied from /disk/data1/pbell1/work/bbc/mgb2015/data/local/dict on the majestic machine
+- files marked as _original are the (backup) original copies of the files before I edited them
+- sed_command.sh aligns the phone set with the GlobalPhone lexicon conventions by swapping some non-silence phones for new notation (used with lexicon.txt and nonsilence_phones.txt) [full alignment + notes are in the first appendix of the dissertation]

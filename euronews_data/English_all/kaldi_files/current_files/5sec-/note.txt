@@ -1,0 +1,7 @@
+5sec-engl
+average segment length: 1 s
+total time: 19:54
+
+half
+average segment length: 1 s
+total time: 9:59
