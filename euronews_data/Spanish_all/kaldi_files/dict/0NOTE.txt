@@ -1,0 +1,3 @@
+notes:
+- files originally from GlobalPhone corpus
+- files marked as _backup are the original copies of the files before I edited them
