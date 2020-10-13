@@ -1,0 +1,5 @@
+   3000 spanish
+   3000 polish
+   3000 german
+   3000 french
+total duration of audio files in data/gp/train_12k/wav.scp: 28:52:6.730

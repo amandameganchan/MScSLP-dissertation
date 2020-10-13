@@ -1,0 +1,3 @@
+total duration of audio files in final_tests/data/gp/train_4-5k/utt2dur: 11:25:9.0
+average duration of segment: 9 seconds
+total duration of audio files in final_tests/data/gp/train_4-5k/wav.scp: 10:51:13.703

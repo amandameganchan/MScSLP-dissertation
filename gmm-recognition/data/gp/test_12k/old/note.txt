@@ -1,0 +1,5 @@
+   5000 spanish
+   5000 polish
+   5000 german
+   5000 french
+total duration of audio files in final_tests/data/gp/train_20k/wav.scp: 47:51:7.500

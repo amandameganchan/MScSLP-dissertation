@@ -1,0 +1,5 @@
+    500 spanish
+    500 polish
+    500 german
+    500 french
+total duration of audio files in data/gp/test_2k/wav.scp: 4:46:20.288

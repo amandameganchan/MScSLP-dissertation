@@ -1,0 +1,5 @@
+   4561 german
+   3577 french
+   2566 polish
+   1939 spanish
+total duration of audio files in wav.scp: 24:34:17.675

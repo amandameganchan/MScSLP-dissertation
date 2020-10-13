@@ -1,0 +1,1 @@
+total duration of audio files in final_tests/data/gp/train_2k/wav.scp: 4:53:25.624
