@@ -1,0 +1,2 @@
+exp files are a bit too large to add here (~11GB)
+they will live on in the cstr server
