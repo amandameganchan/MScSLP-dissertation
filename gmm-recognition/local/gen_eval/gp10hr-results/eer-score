@@ -1,0 +1,3 @@
+compute-eer gp10hr-results/scores 
+LOG (compute-eer[5.5.707~1-c9d8b]:main():compute-eer.cc:136) Equal error rate is 36.1674%, at threshold 0.0839145
+36.17

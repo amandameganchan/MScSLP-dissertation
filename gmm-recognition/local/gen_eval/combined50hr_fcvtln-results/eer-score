@@ -1,0 +1,3 @@
+compute-eer combined50hr_fcvtln-results/scores 
+LOG (compute-eer[5.5.707~1-c9d8b]:main():compute-eer.cc:136) Equal error rate is 36.4217%, at threshold 0.142498
+36.42

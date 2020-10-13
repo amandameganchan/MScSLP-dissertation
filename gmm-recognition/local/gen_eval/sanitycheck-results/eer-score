@@ -1,0 +1,3 @@
+compute-eer sanitycheck-results/scores 
+LOG (compute-eer[5.5.707~1-c9d8b]:main():compute-eer.cc:136) Equal error rate is 0.585729%, at threshold 0.322022
+0.5857

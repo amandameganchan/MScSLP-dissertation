@@ -1,0 +1,13 @@
+**folder initially copied from kaldi/egs/lre07/v1**
+
+notes:
+
+- run_amanda-bl10.sh = recipe for 10hr baseline suitability experiments (3: globalphone, euronews, combined) 
+- run_amanda-bl50.sh = recipe for 50hr baseline experiments (euronews/switching, combined/switching, combined/control test set) 
+- Cavg results in results folder; EER results in local/gen_eval/*-results folders
+--------
+- mfcc config files edited for wide-band audio
+- modified local/general_lr_closed_set_langs.txt to only include languages within code-switching test set
+- modified local/general_lr_closed_set_langs_gp.txt to only include GlobalPhone languages
+- modified lid/run_logistic_regression.sh so that it could be used 'generically' (i.e. not hard-coded to any experiment paths)
+- modified local/lre07_eval as local/gen_eval to be more general (take paths as args instead of hard-coded, etc.)

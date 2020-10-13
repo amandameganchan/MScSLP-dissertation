@@ -1,0 +1,12 @@
+arabic 0
+bengali 1
+chinese 2
+english 3
+farsi 4
+hindustani 5
+japanese 6
+korean 7
+russian 8
+spanish 9
+thai 10
+vietnamese 11

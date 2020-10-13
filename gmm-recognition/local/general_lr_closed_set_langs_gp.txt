@@ -1,0 +1,4 @@
+french 0
+german 1
+polish 2
+spanish 3

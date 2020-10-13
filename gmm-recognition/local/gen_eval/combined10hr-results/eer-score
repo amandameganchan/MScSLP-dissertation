@@ -1,0 +1,3 @@
+compute-eer combined10hr-results/scores 
+LOG (compute-eer[5.5.707~1-c9d8b]:main():compute-eer.cc:136) Equal error rate is 36.1233%, at threshold 0.0549117
+36.12

@@ -1,0 +1,5 @@
+notes:
+
+- eval.sh modified to take paths as args instead of being hard-coded; only computes overall score (removed 3s/10s/30s categories)
+- score.v01d.pl modified to add switching languages that were not there previously
+- targets.pl modified to add switching languages that were not there previously

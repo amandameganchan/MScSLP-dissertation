@@ -1,0 +1,50 @@
+########################### LEGEND:
+# FRE - french
+# GER - german
+# POL - polish
+# SPA - spanish
+# OOS - out-of-set languages, if any
+#
+# Lt - Target languages
+# Ln - Segment languages
+# Lo - Out-of-set languages including both 'unknown' languages and 'known' but is not in the language set for a given test
+#
+# Pmiss(Lt) - Miss prob for the corresponding target language Lt
+# Avg Pfa(Lt) - Avg fa prob for the corresponding target language Lt across all the closed set segment languages
+# Avg Pfa(Lt+Lo) - Avg fa prob for the corresponding target language Lt across all segment languages
+#
+# Avg Pmiss - Avg miss across all the target languages
+# Avg Pfa(Lo) - Avg fa across all the target languages when segment language is out-of-set
+# Avg Pfa(not Lo) - Avg fa across all the target languages when segment language is not out-of-set
+# Avg Pfa - Avg fa across all the target languages
+#
+# Avg Cost(Lt) - Avg cost for the corresponding target language Lt across all segment languages
+# Avg Cost - Avg cost across all the target languages
+
+########################### ERROR RATES: Pfa(Lt,Ln)
+                     |           Target    Language  Lt        
+Segment Language Ln  | FRE     | GER     | POL     | SPA     | 
+FRE                  | --      | 0.0550  | 0.5405  | 0.0680  | 
+GER                  | 0.3775  | --      | 0.3576  | 0.0960  | 
+POL                  | 0.2958  | 0.3586  | --      | 0.1026  | 
+SPA                  | 0.3191  | 0.1313  | 0.2611  | --      | 
+----------------------------------------------------------
+Pmiss(Lt)            | 0.6634  | 0.8311  | 0.7570  | 0.7115  | 
+Avg Pfa(Lt)          | 0.3308  | 0.1816  | 0.3864  | 0.0889  | 
+Avg Pfa(Lt+Lo)       | 0.3308  | 0.1816  | 0.3864  | 0.0889  | 
+
+Avg Pmiss            = 0.7407 
+Avg Pfa (not Lo)     = 0.2469 
+Avg Pfa              = 0.2469 
+
+########################### COSTS: C(Lt,Ln)
+                     |           Target    Language  Lt        
+Segment Language Ln  | FRE     | GER     | POL     | SPA     | 
+FRE                  | --      | 0.4431  | 0.6487  | 0.3897  | 
+GER                  | 0.5205  | --      | 0.5573  | 0.4037  | 
+POL                  | 0.4796  | 0.5948  | --      | 0.4070  | 
+SPA                  | 0.4913  | 0.4812  | 0.5090  | --      | 
+----------------------------------------------------------
+Avg Cost(Lt)         | 0.4971  | 0.5064  | 0.5717  | 0.4002  | 
+
+Avg Cost             = 0.4938 
