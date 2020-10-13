@@ -1,0 +1,8 @@
+# compute-vad --config=conf/vad.conf scp:data/test_subset_1_segmented/split4/2/feats.scp ark,scp:/disk/scratch3/s1983587/kaldi/egs/callhome_diarization/v1/data/test_subset_1_segmented/data/vad_test_subset_1_segmented.2.ark,/disk/scratch3/s1983587/kaldi/egs/callhome_diarization/v1/data/test_subset_1_segmented/data/vad_test_subset_1_segmented.2.scp 
+# Started at Sun Aug  9 07:59:07 BST 2020
+#
+compute-vad --config=conf/vad.conf scp:data/test_subset_1_segmented/split4/2/feats.scp ark,scp:/disk/scratch3/s1983587/kaldi/egs/callhome_diarization/v1/data/test_subset_1_segmented/data/vad_test_subset_1_segmented.2.ark,/disk/scratch3/s1983587/kaldi/egs/callhome_diarization/v1/data/test_subset_1_segmented/data/vad_test_subset_1_segmented.2.scp 
+LOG (compute-vad[5.5.739~1-d59f03]:main():compute-vad.cc:95) Applied energy based voice activity detection; processed 304 utterances successfully; 0 had empty features, and 0 were completely unvoiced.
+LOG (compute-vad[5.5.739~1-d59f03]:main():compute-vad.cc:99) Proportion of voiced frames was 1 over 472182 frames.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Aug  9 07:59:07 BST 2020, elapsed time 0 seconds

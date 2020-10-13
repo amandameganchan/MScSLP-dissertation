@@ -1,0 +1,57 @@
+# copy-vector scp:data/test_subset_1/split2/1/vad.scp ark,t:- | sed -e "s/\[ //g;s/ \]//g" | utils/segmentation.pl --remove-noise-only-segments true > data/test_subset_1/split2/1/subsegments 
+# Started at Thu Aug  6 02:14:11 BST 2020
+#
+copy-vector scp:data/test_subset_1/split2/1/vad.scp ark,t:- 
+utils/segmentation.pl: warning: for recording c1rA0003, only got a proportion 0.0653609420527232 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 44.3 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 41.23 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 89.12 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 41.69 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 97.41 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 57.97 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 56.7 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 40.83 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 40.68 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0003, splitting segment of length 49.91 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, only got a proportion 0.055056342246873 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 636.19 seconds into 22 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 39.97 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 76.24 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 52.05 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 30.91 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0004, splitting segment of length 41.72 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, only got a proportion 0.12905510510902 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 76.99 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 41.74 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 45.48 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 39.43 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 193.37 seconds into 7 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 33.11 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 102.92 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 51.84 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0005, splitting segment of length 48.04 seconds into 2 pieces (--hard-max-segment-length 30)
+LOG (copy-vector[5.5.707~1-c9d8b]:main():copy-vector.cc:90) Copied 5 vectors.
+utils/segmentation.pl: warning: for recording c1rA0006, only got a proportion 0.194560282375713 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 56.03 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 51.56 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 38.66 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 149.43 seconds into 5 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 81.63 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 53.64 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 39.16 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 52.47 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 48.91 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0006, splitting segment of length 36.18 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, only got a proportion 0.00997305978655062 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 47.06 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 57.33 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 31.67 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 84.63 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 46.25 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 41.69 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 45.97 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 76.21 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 52.7 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c1rA0008, splitting segment of length 462.33 seconds into 16 pieces (--hard-max-segment-length 30)
+# Accounting: time=7 threads=1
+# Ended (code 0) at Thu Aug  6 02:14:18 BST 2020, elapsed time 7 seconds

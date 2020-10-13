@@ -1,0 +1,11 @@
+notes:
+
+- run_amanda.sh = recipe for language diarization experiments
+- auto VAD/language cluster results: results/results_original/DER_num_spk.txt
+- oracle VAD/language cluster results: results/results_original/DER_num_spk_cheat.txt
+- auto VAD/speaker-language cluster results: results/results_spk-lang/DER_num_spk.txt
+- oracle VAD/speaker-language cluster results: results/results_spk-lang/DER_num_spk_cheat.txt
+--------
+- added conf/mfcc_hires.conf for extracting hires feats for use with DNN 
+- mfcc config files edited for wide-band audio
+- modified diarization/extract_ivectors.sh to work with DNN and SDCs -- notes at top of script

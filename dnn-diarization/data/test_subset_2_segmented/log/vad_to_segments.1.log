@@ -1,0 +1,31 @@
+# copy-vector scp:data/test_subset_2/split2/1/vad.scp ark,t:- | sed -e "s/\[ //g;s/ \]//g" | utils/segmentation.pl --remove-noise-only-segments true > data/test_subset_2/split2/1/subsegments 
+# Started at Thu Aug  6 02:16:53 BST 2020
+#
+copy-vector scp:data/test_subset_2/split2/1/vad.scp ark,t:- 
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 120.33 seconds into 5 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 132.36 seconds into 5 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 139.19 seconds into 5 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 326.9 seconds into 11 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 63.4 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 88 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 43.94 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 50 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 39.21 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 96.53 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0002, splitting segment of length 275.99 seconds into 10 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, only got a proportion 0.198992803550725 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 39.21 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 31.08 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 34.25 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 55.05 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 33.82 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0003, splitting segment of length 52.11 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0004, splitting segment of length 110.56 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0004, splitting segment of length 113.63 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c4rC0004, splitting segment of length 256.03 seconds into 9 pieces (--hard-max-segment-length 30)
+LOG (copy-vector[5.5.707~1-c9d8b]:main():copy-vector.cc:90) Copied 5 vectors.
+utils/segmentation.pl: warning: for recording c5rB0001, only got a proportion 0.152608276345783 of silence frames, versus target 0.2
+utils/segmentation.pl: warning: for recording c5rB0001, splitting segment of length 119.71 seconds into 4 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c5rB0002, only got a proportion 0.11676271611125 of silence frames, versus target 0.2
+# Accounting: time=40 threads=1
+# Ended (code 0) at Thu Aug  6 02:17:33 BST 2020, elapsed time 40 seconds
