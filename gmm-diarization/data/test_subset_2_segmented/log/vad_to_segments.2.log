@@ -1,0 +1,12 @@
+# copy-vector scp:data/test_subset_2/split2/2/vad.scp ark,t:- | sed -e "s/\[ //g;s/ \]//g" | utils/segmentation.pl --remove-noise-only-segments true > data/test_subset_2/split2/2/subsegments 
+# Started at Thu Aug  6 02:16:53 BST 2020
+#
+copy-vector scp:data/test_subset_2/split2/2/vad.scp ark,t:- 
+utils/segmentation.pl: warning: for recording c5rB0003, splitting segment of length 33.87 seconds into 2 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c5rB0004, splitting segment of length 62.02 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c5rB0004, splitting segment of length 86.54 seconds into 3 pieces (--hard-max-segment-length 30)
+utils/segmentation.pl: warning: for recording c5rB0004, splitting segment of length 69.46 seconds into 3 pieces (--hard-max-segment-length 30)
+LOG (copy-vector[5.5.707~1-c9d8b]:main():copy-vector.cc:90) Copied 4 vectors.
+utils/segmentation.pl: warning: for recording c6rC0002, only got a proportion 0.185752544681478 of silence frames, versus target 0.2
+# Accounting: time=6 threads=1
+# Ended (code 0) at Thu Aug  6 02:16:59 BST 2020, elapsed time 6 seconds

@@ -1,0 +1,13 @@
+**folder initially copied from kaldi/egs/callhome_diarization/v1**
+
+notes:
+
+- run_amanda.sh = recipe for language diarization experiments
+- auto VAD/language cluster results: results/results_original/DER_num_spk.txt
+- oracle VAD/language cluster results: results/results_original/DER_num_spk_cheat.txt
+- auto VAD/speaker-language cluster results: results/results_spk-lang/DER_num_spk.txt
+- oracle VAD/speaker-language cluster results: results/results_spk-lang/DER_num_spk_cheat.txt
+--------
+- mfcc config files edited for wide-band audio
+- convert_utt2spk_and_segments_to_rttm.py downloaded from kaldi github to make reference rttm files
+
