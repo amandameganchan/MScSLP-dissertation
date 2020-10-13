@@ -1,0 +1,7 @@
+usable_segs:
+average segment length: 2 s
+total time: 8:53
+
+usable_segs_3+:
+average segment length: 5 s
+total time: 5:48

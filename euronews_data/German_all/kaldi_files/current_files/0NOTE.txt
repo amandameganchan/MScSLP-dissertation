@@ -1,0 +1,2 @@
+files created on 2nd attempt that makes segments by concatenating adjacent words within half a second 
+5sec file includes segments that are 5 seconds or longer only

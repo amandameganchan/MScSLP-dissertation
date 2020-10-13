@@ -1,0 +1,1 @@
+files created by using original script that makes segments by concatenating exactly adjacent words (resulting in segments that are quite short on average)
