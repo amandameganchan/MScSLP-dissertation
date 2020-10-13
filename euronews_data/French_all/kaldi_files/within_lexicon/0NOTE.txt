@@ -1,0 +1,19 @@
+usable_segs: (half second concat segments)
+average segment length: 1 s
+total time: 3:52
+
+usable_segs_original: (exactly adjacent concat segments)
+average segment length: 0 s
+total time: 23:36
+
+usable_segs_original_checked: (better check of segments without oovs) 
+average segment length: 0 s
+total time: 16:59
+
+usable_segs_original_checked_1+: (segments 1 second or longer)
+average segment length: 1 s
+total time: 9:19
+
+usable_segs_original_checked_1-25+: (segments 1.25 seconds or longer) 
+average segment length: 1 s
+total time: 7:9

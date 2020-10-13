@@ -1,0 +1,4 @@
+notes:
+- files originally from GlobalPhone corpus
+- files marked as _backup are the original copies of the files before I edited them
+- sed_command.sh aligns the phone set with the GlobalPhone Spanish/German/Polish lexicon conventions by swapping some non-silence phones for new notation [full alignment + notes are in the first appendix of the dissertation]
