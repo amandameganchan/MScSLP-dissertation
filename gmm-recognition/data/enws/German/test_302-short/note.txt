@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/German/test_302-short/utt2dur: 0:25:10.0
+average duration of segment: 5 seconds

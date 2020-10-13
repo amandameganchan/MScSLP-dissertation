@@ -1,0 +1,7 @@
+total duration of audio files in data/enws/train_5l_50hr/utt2dur: 50:32:40.0
+average duration of segment: 9 seconds
+   4000 french
+   4000 english
+   3750 spanish
+   3750 polish
+   3750 german

@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/English/test_500/utt2dur: 1:15:48.0
+average duration of segment: 9 seconds

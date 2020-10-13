@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/Spanish/test_250/utt2dur: 0:39:54.0
+average duration of segment: 9 seconds

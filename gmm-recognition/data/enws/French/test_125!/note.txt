@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/French/test_125/utt2dur: 0:18:8.0
+average duration of segment: 8 seconds

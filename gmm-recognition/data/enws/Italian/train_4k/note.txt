@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/Italian/train_4k/utt2dur: 10:54:16.0
+average duration of segment: 9 seconds

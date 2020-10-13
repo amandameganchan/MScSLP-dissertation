@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/Polish/test_350/utt2dur: 0:56:18.0
+average duration of segment: 9 seconds

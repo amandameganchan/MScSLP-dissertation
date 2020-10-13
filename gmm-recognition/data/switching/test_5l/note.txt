@@ -1,0 +1,7 @@
+   1486 english
+   1004 polish
+    655 spanish
+    309 french
+    302 german
+total duration of audio files in data/switching/test_5l/utt2dur: 6:36:32.0
+average duration of segment: 6 seconds

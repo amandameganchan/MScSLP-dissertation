@@ -1,0 +1,7 @@
+   1000 english
+    800 polish
+    450 spanish
+    275 french
+    250 german
+total duration of audio files in data/combined/test/utt2dur: 6:55:26.0
+average duration of segment: 8 seconds

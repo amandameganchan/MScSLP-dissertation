@@ -1,0 +1,7 @@
+total duration of audio files in data/combined/train_5l_50hr_comb/utt2dur: 51:40:40.0
+average duration of segment: 9 seconds
+   4000 spanish
+   4000 polish
+   4000 german
+   4000 french
+   4000 english

@@ -1,0 +1,7 @@
+   1486 english
+   1004 polish
+    655 spanish
+    309 french
+    302 german
+total duration of audio files in data/enws/test-sanitycheck/utt2dur: 5:49:29.0
+average duration of segment: 5 seconds

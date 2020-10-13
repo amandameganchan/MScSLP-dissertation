@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/Spanish/train_4k/utt2dur: 10:42:58.0
+average duration of segment: 9 seconds

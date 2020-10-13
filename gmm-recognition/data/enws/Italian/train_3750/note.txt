@@ -1,0 +1,2 @@
+total duration of audio files in data/enws/Italian/train_3750/utt2dur: 10:13:52.0
+average duration of segment: 9 seconds

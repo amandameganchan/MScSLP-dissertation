@@ -1,0 +1,2 @@
+total duration of audio files in final_tests/data/enws/German/train_3750/utt2dur: 10:12:34.0
+average duration of segment: 9 seconds

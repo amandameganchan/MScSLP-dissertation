@@ -1,0 +1,2 @@
+total duration of audio files in final_tests/data/enws/French/train_4k/utt2dur: 10:17:55.0
+average duration of segment: 9 seconds

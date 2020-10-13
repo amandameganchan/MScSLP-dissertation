@@ -1,0 +1,2 @@
+total duration of audio files in final_tests/data/enws/train_4l_8k/utt2dur: 21:15:4.0
+average duration of segment: 9 seconds
