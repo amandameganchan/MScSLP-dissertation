@@ -1,0 +1,53 @@
+########################### LEGEND:
+# ENG - english
+# FRE - french
+# GER - german
+# POL - polish
+# SPA - spanish
+# OOS - out-of-set languages, if any
+#
+# Lt - Target languages
+# Ln - Segment languages
+# Lo - Out-of-set languages including both 'unknown' languages and 'known' but is not in the language set for a given test
+#
+# Pmiss(Lt) - Miss prob for the corresponding target language Lt
+# Avg Pfa(Lt) - Avg fa prob for the corresponding target language Lt across all the closed set segment languages
+# Avg Pfa(Lt+Lo) - Avg fa prob for the corresponding target language Lt across all segment languages
+#
+# Avg Pmiss - Avg miss across all the target languages
+# Avg Pfa(Lo) - Avg fa across all the target languages when segment language is out-of-set
+# Avg Pfa(not Lo) - Avg fa across all the target languages when segment language is not out-of-set
+# Avg Pfa - Avg fa across all the target languages
+#
+# Avg Cost(Lt) - Avg cost for the corresponding target language Lt across all segment languages
+# Avg Cost - Avg cost across all the target languages
+
+########################### ERROR RATES: Pfa(Lt,Ln)
+                     |           Target    Language  Lt                | 
+Segment Language Ln  | ENG     | FRE     | GER     | POL     | SPA     | 
+ENG                  | --      | 0.0020  | 0.0020  | 0.0007  | 0.0054  | 
+FRE                  | 0.0000  | --      | 0.0032  | 0.0000  | 0.0129  | 
+GER                  | 0.0000  | 0.0000  | --      | 0.0000  | 0.0166  | 
+POL                  | 0.0000  | 0.0000  | 0.0000  | --      | 0.0090  | 
+SPA                  | 0.0015  | 0.0000  | 0.0000  | 0.0000  | --      | 
+--------------------------------------------------------------------
+Pmiss(Lt)            | 0.0101  | 0.0162  | 0.0166  | 0.0090  | 0.0015  | 
+Avg Pfa(Lt)          | 0.0004  | 0.0005  | 0.0013  | 0.0002  | 0.0110  | 
+Avg Pfa(Lt+Lo)       | 0.0004  | 0.0005  | 0.0013  | 0.0002  | 0.0110  | 
+
+Avg Pmiss            = 0.0107 
+Avg Pfa (not Lo)     = 0.0027 
+Avg Pfa              = 0.0027 
+
+########################### COSTS: C(Lt,Ln)
+                     |           Target    Language  Lt                | 
+Segment Language Ln  | ENG     | FRE     | GER     | POL     | SPA     | 
+ENG                  | --      | 0.0091  | 0.0093  | 0.0048  | 0.0035  | 
+FRE                  | 0.0050  | --      | 0.0099  | 0.0045  | 0.0072  | 
+GER                  | 0.0050  | 0.0081  | --      | 0.0045  | 0.0090  | 
+POL                  | 0.0050  | 0.0081  | 0.0083  | --      | 0.0052  | 
+SPA                  | 0.0058  | 0.0081  | 0.0083  | 0.0045  | --      | 
+--------------------------------------------------------------------
+Avg Cost(Lt)         | 0.0052  | 0.0083  | 0.0089  | 0.0046  | 0.0062  | 
+
+Avg Cost             = 0.0067 

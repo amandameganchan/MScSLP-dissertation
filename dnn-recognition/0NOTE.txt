@@ -1,0 +1,16 @@
+notes:
+
+- run_amanda-mono.sh = recipe for monolingually-trained DNN-UBM experiment
+- run_amanda-multi.sh = recipe for multilingually-trained DNN-UBM experiment
+- Cavg results in results folder; EER results in local/gen_eval/*-results folders
+--------
+- conf and conf_lre folders are the same...I just had it hard-coded in different places under different names :(
+- mfcc config files edited for wide-band audio
+- modified local/dnn/train_dnn.sh as local/dnn/train_dnn_mono.sh for monolingual (English) trained DNN-UBM experiment
+    - also modified local/dnn/run_nnet2_multisplice_mono.sh and local/dnn/run_nnet2_common_mono.sh
+- modified local/dnn/train_dnn.sh as local/dnn/train_dnn_multi.sh for multilingual (EN/FR/GE/PL/ES) trained DNN-UBM experiment
+    - also modified local/dnn/run_nnet2_multisplice_multi.sh and local/dnn/run_nnet2_common_multi.sh
+- modified lid/nnet2/train_multisplice_accel2.sh, lid/init_full_ubm_from_dnn.sh, lid/train_ivector_extractor_dnn.sh, and lid/extract_ivectors_dnn.sh to work better with cstr gpu (notes at top of script)
+- modified local/general_lr_closed_set_langs.txt to only include languages within code-switching test set
+- modified lid/run_logistic_regression.sh so that it could be used 'generically' (i.e. not hard-coded to any experiment paths) 
+- modified local/lre07_eval as local/gen_eval to be more general (take paths as args instead of hard-coded, etc.) 
